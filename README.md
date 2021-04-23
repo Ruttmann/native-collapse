@@ -8,4 +8,4 @@
 
 ## Overview
 
-Just a simple implementation of a collapse with `<details>` and `<summary>` HTML elements. Fully accessible, no JS. 🎉
+Just a simple collapse with `<details>` and `<summary>` HTML elements. Fully accessible, no JS. 🎉
